@@ -62,25 +62,39 @@ This project implements a **Trustworthy AI** pipeline for heart disease predicti
 └── requirements.txt
 ```
 
-## 🖥️ Application Screenshots
+## 🖥️ Application Screen Recordings
 
 ### 📊 Dashboard
-![Dashboard](C:\Users\DELL\Videos\Dashboard.mp4)
+<video width="800" controls>
+  <source src="https://github.com/sindhiya225/heart_disease_prediction/blob/main/Dashboard.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+![tp-add-plan](https://github.com/sindhiya225/heart_disease_prediction/blob/main/Dashboard.mp4)
 
 ---
 
 ### 📈 Model Comparison
-![Model Comparison](screenshots/model_comparison.png)
+<video width="800" controls>
+  <source src="screenrecs/model_comparison.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
 ### 🔮 Real-Time Prediction
-![Real-Time Prediction](screenshots/real_time_prediction.png)
+<video width="800" controls>
+  <source src="screenrecs/real_time_prediction.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
 ### 📉 Training Metrics
-![Training Metrics](screenshots/training_metrics.png)
+<video width="800" controls>
+  <source src="screenrecs/training_metrics.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🚀 Quick Start
@@ -220,4 +234,5 @@ This project is licensed under the MIT License.
 - Privacy and Fairness Research Community  
 
 **⭐ Star the repo if you find it useful!**
+
 
