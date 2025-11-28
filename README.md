@@ -65,35 +65,24 @@ This project implements a **Trustworthy AI** pipeline for heart disease predicti
 ## 🖥️ Application Screen Recordings
 
 ### 📊 Dashboard
-<video width="800" controls>
-  <source src="https://github.com/sindhiya225/heart_disease_prediction/blob/main/Dashboard.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-![tp-add-plan](https://github.com/sindhiya225/heart_disease_prediction/blob/main/Dashboard.mp4)
+![Dashboard](https://github.com/user-attachments/assets/68584f64-dce3-41fd-91de-84929f303caf)
 
 ---
 
 ### 📈 Model Comparison
-<video width="800" controls>
-  <source src="screenrecs/model_comparison.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Model comparison](https://github.com/user-attachments/assets/30fb7d54-2693-4d3f-833d-39e07463967a)
+
 
 ---
 
 ### 🔮 Real-Time Prediction
-<video width="800" controls>
-  <source src="screenrecs/real_time_prediction.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Realtime prediction](https://github.com/user-attachments/assets/51d2ec1b-e217-43f3-92ff-57d2e577fbbe)
+
 
 ---
 
 ### 📉 Training Metrics
-<video width="800" controls>
-  <source src="screenrecs/training_metrics.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Training metrics](https://github.com/user-attachments/assets/3656a501-3d48-4353-a778-c63f3e60862e)
 
 
 
@@ -234,5 +223,6 @@ This project is licensed under the MIT License.
 - Privacy and Fairness Research Community  
 
 **⭐ Star the repo if you find it useful!**
+
 
 
