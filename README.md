@@ -62,6 +62,27 @@ This project implements a **Trustworthy AI** pipeline for heart disease predicti
 └── requirements.txt
 ```
 
+## 🖥️ Application Screenshots
+
+### 📊 Dashboard
+![Dashboard](C:\Users\DELL\Videos\Dashboard.mp4)
+
+---
+
+### 📈 Model Comparison
+![Model Comparison](screenshots/model_comparison.png)
+
+---
+
+### 🔮 Real-Time Prediction
+![Real-Time Prediction](screenshots/real_time_prediction.png)
+
+---
+
+### 📉 Training Metrics
+![Training Metrics](screenshots/training_metrics.png)
+
+
 ## 🚀 Quick Start
 
 ### Installation
@@ -199,3 +220,4 @@ This project is licensed under the MIT License.
 - Privacy and Fairness Research Community  
 
 **⭐ Star the repo if you find it useful!**
+
